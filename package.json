@@ -12,5 +12,8 @@
   "dependencies": {
     "image-size": "^0.9.3",
     "node": "^15.0.1"
+  },
+  "devDependencies": {
+    "fs": "0.0.1-security"
   }
 }
