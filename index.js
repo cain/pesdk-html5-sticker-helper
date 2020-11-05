@@ -1,23 +1,35 @@
 const sizeOf = require('image-size');
 const fs = require('fs');
+const _ = require('lodash');
 
 // Uri for main repo
-const uri = './static/static/photoeditorsdk-assets/stickers/custom/';
+const uri = 'stickers/custom';
+
+// Default stickers
+const stickers = ["imgly_sticker_shapes_badge_04", "imgly_sticker_shapes_arrow_02", "imgly_sticker_shapes_arrow_03", "imgly_sticker_shapes_badge_01", "imgly_sticker_shapes_badge_04", "imgly_sticker_shapes_badge_06", "imgly_sticker_shapes_badge_08", "imgly_sticker_shapes_badge_11", "imgly_sticker_shapes_badge_19", "imgly_sticker_shapes_badge_5", "imgly_sticker_shapes_badge_12", "custom_sticker_cactus_1"];
 
 // Sticker packs
 const packs = [
   {
     name: 'space',
     folder: './images/Space Pack 1/Space PNGs/'
+  },
+  {
+    name: 'garden',
+    folder: './images/Garden Pack 1/Garden PNGs/'
+  },
+  {
+    name: 'cactus',
+    folder: './images/Cactus Pack 1/Cactus PNGs/'
   }
-]
+];
 
-const data = { categories: [] };
+const data = { availableStickers: stickers };
 
 packs.forEach((pack) => {
   const cat = {
     "identifier": pack.name,
-    "defaultName": pack.name,
+    "defaultName": _.capitalize(pack.name),
     "metaData": {
       "backgroundImage": "stickers/background.png"
     },
@@ -25,15 +37,17 @@ packs.forEach((pack) => {
   };
 
   // Read files in pack
-  fs.readdirSync(packs[0].folder).forEach((fileName) => {
+  fs.readdirSync(pack.folder).forEach((fileName) => {
     const identifier = fileName.replace(' ', '');
     const dimensions = sizeOf(pack.folder + fileName);
 
     // Construct full file uri
-    const fileURI = `${uri}${pack.name}/${fileName.replace('.png', '.svg')}`
+    const fileURI = `${uri}/${pack.name}/${identifier.replace('.png', '.svg')}`;
+
+    data.availableStickers.push(identifier);
     cat.stickers.push({
       "identifier": identifier,
-      "defaultName": fileName,
+      "defaultName": _.capitalize(fileName),
       "images": {
         "mediaBase": {
           "uri": fileURI,
@@ -48,9 +62,12 @@ packs.forEach((pack) => {
       }
     })
   })
-  
-  // Push to main data object
-  data.categories.push(cat);
+
+  // Stringify json with correct format
+  const json = JSON.stringify(cat, null, 2);
+
+  // Write to stick pack json file
+  fs.writeFileSync('./json/'+pack.name+'-stickers.json', json);
 })
 
 // Stringify json with correct format
@@ -58,32 +75,3 @@ const json = JSON.stringify(data, null, 2);
 
 // Write to json file
 fs.writeFileSync('data.json', json);
-
-// Data structure
-// "categories": [
-//   {
-//     "identifier": "custom_stickers",
-//     "defaultName": "Custom Stickers",
-//     "metaData": {
-//       "backgroundImage": "stickers/background.png"
-//     },
-//     "stickers": [
-//       {
-//         "identifier": "custom_sticker_cactus_1",
-//         "defaultName": "Cactus",
-//         "images": {
-//           "mediaBase": {
-//             "uri": "stickers/custom/cactus/cactus-1.svg",
-//             "width": 344,
-//             "height": 500
-//           },
-//           "mediaThumb": {
-//             "uri": "stickers/custom/cactus/cactus-1.svg",
-//             "width": 50,
-//             "height": 50
-//           }
-//         }
-//       }
-//     ]
-//   }
-// ],

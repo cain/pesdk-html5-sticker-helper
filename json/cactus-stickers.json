@@ -1,0 +1,169 @@
+{
+  "identifier": "cactus",
+  "defaultName": "Cactus",
+  "metaData": {
+    "backgroundImage": "stickers/background.png"
+  },
+  "stickers": [
+    {
+      "identifier": "Cactus1.png",
+      "defaultName": "Cactus 1.png",
+      "images": {
+        "mediaBase": {
+          "uri": "stickers/custom/cactus/Cactus1.svg",
+          "width": 689,
+          "height": 1000
+        },
+        "mediaThumb": {
+          "uri": "stickers/custom/cactus/Cactus1.svg",
+          "width": 50,
+          "height": 50
+        }
+      }
+    },
+    {
+      "identifier": "Cactus10.png",
+      "defaultName": "Cactus 10.png",
+      "images": {
+        "mediaBase": {
+          "uri": "stickers/custom/cactus/Cactus10.svg",
+          "width": 660,
+          "height": 1000
+        },
+        "mediaThumb": {
+          "uri": "stickers/custom/cactus/Cactus10.svg",
+          "width": 50,
+          "height": 50
+        }
+      }
+    },
+    {
+      "identifier": "Cactus2.png",
+      "defaultName": "Cactus 2.png",
+      "images": {
+        "mediaBase": {
+          "uri": "stickers/custom/cactus/Cactus2.svg",
+          "width": 661,
+          "height": 1000
+        },
+        "mediaThumb": {
+          "uri": "stickers/custom/cactus/Cactus2.svg",
+          "width": 50,
+          "height": 50
+        }
+      }
+    },
+    {
+      "identifier": "Cactus3.png",
+      "defaultName": "Cactus 3.png",
+      "images": {
+        "mediaBase": {
+          "uri": "stickers/custom/cactus/Cactus3.svg",
+          "width": 509,
+          "height": 1000
+        },
+        "mediaThumb": {
+          "uri": "stickers/custom/cactus/Cactus3.svg",
+          "width": 50,
+          "height": 50
+        }
+      }
+    },
+    {
+      "identifier": "Cactus4.png",
+      "defaultName": "Cactus 4.png",
+      "images": {
+        "mediaBase": {
+          "uri": "stickers/custom/cactus/Cactus4.svg",
+          "width": 772,
+          "height": 1000
+        },
+        "mediaThumb": {
+          "uri": "stickers/custom/cactus/Cactus4.svg",
+          "width": 50,
+          "height": 50
+        }
+      }
+    },
+    {
+      "identifier": "Cactus5.png",
+      "defaultName": "Cactus 5.png",
+      "images": {
+        "mediaBase": {
+          "uri": "stickers/custom/cactus/Cactus5.svg",
+          "width": 705,
+          "height": 1000
+        },
+        "mediaThumb": {
+          "uri": "stickers/custom/cactus/Cactus5.svg",
+          "width": 50,
+          "height": 50
+        }
+      }
+    },
+    {
+      "identifier": "Cactus6.png",
+      "defaultName": "Cactus 6.png",
+      "images": {
+        "mediaBase": {
+          "uri": "stickers/custom/cactus/Cactus6.svg",
+          "width": 560,
+          "height": 1000
+        },
+        "mediaThumb": {
+          "uri": "stickers/custom/cactus/Cactus6.svg",
+          "width": 50,
+          "height": 50
+        }
+      }
+    },
+    {
+      "identifier": "Cactus7.png",
+      "defaultName": "Cactus 7.png",
+      "images": {
+        "mediaBase": {
+          "uri": "stickers/custom/cactus/Cactus7.svg",
+          "width": 494,
+          "height": 1000
+        },
+        "mediaThumb": {
+          "uri": "stickers/custom/cactus/Cactus7.svg",
+          "width": 50,
+          "height": 50
+        }
+      }
+    },
+    {
+      "identifier": "Cactus8.png",
+      "defaultName": "Cactus 8.png",
+      "images": {
+        "mediaBase": {
+          "uri": "stickers/custom/cactus/Cactus8.svg",
+          "width": 441,
+          "height": 1000
+        },
+        "mediaThumb": {
+          "uri": "stickers/custom/cactus/Cactus8.svg",
+          "width": 50,
+          "height": 50
+        }
+      }
+    },
+    {
+      "identifier": "Cactus9.png",
+      "defaultName": "Cactus 9.png",
+      "images": {
+        "mediaBase": {
+          "uri": "stickers/custom/cactus/Cactus9.svg",
+          "width": 615,
+          "height": 1000
+        },
+        "mediaThumb": {
+          "uri": "stickers/custom/cactus/Cactus9.svg",
+          "width": 50,
+          "height": 50
+        }
+      }
+    }
+  ]
+}
