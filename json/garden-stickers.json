@@ -2,372 +2,372 @@
   "identifier": "garden",
   "defaultName": "Garden",
   "metaData": {
-    "backgroundImage": "stickers/background.png"
+    "backgroundImage": "stickers/custom/background.png"
   },
   "stickers": [
     {
-      "identifier": "Garden1.png",
+      "identifier": "garden1.png",
       "defaultName": "Garden 1.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden1.svg",
+          "uri": "stickers/custom/garden/garden1.svg",
           "width": 1011,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden1.svg",
+          "uri": "stickers/custom/garden/garden1.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden10.png",
+      "identifier": "garden10.png",
       "defaultName": "Garden 10.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden10.svg",
+          "uri": "stickers/custom/garden/garden10.svg",
           "width": 862,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden10.svg",
+          "uri": "stickers/custom/garden/garden10.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden11.png",
+      "identifier": "garden11.png",
       "defaultName": "Garden 11.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden11.svg",
+          "uri": "stickers/custom/garden/garden11.svg",
           "width": 1000,
           "height": 169
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden11.svg",
+          "uri": "stickers/custom/garden/garden11.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden12.png",
+      "identifier": "garden12.png",
       "defaultName": "Garden 12.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden12.svg",
+          "uri": "stickers/custom/garden/garden12.svg",
           "width": 733,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden12.svg",
+          "uri": "stickers/custom/garden/garden12.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden13.png",
+      "identifier": "garden13.png",
       "defaultName": "Garden 13.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden13.svg",
+          "uri": "stickers/custom/garden/garden13.svg",
           "width": 395,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden13.svg",
+          "uri": "stickers/custom/garden/garden13.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden14.png",
+      "identifier": "garden14.png",
       "defaultName": "Garden 14.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden14.svg",
+          "uri": "stickers/custom/garden/garden14.svg",
           "width": 334,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden14.svg",
+          "uri": "stickers/custom/garden/garden14.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden15.png",
+      "identifier": "garden15.png",
       "defaultName": "Garden 15.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden15.svg",
+          "uri": "stickers/custom/garden/garden15.svg",
           "width": 337,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden15.svg",
+          "uri": "stickers/custom/garden/garden15.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden16.png",
+      "identifier": "garden16.png",
       "defaultName": "Garden 16.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden16.svg",
+          "uri": "stickers/custom/garden/garden16.svg",
           "width": 387,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden16.svg",
+          "uri": "stickers/custom/garden/garden16.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden17.png",
+      "identifier": "garden17.png",
       "defaultName": "Garden 17.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden17.svg",
+          "uri": "stickers/custom/garden/garden17.svg",
           "width": 723,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden17.svg",
+          "uri": "stickers/custom/garden/garden17.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden18.png",
+      "identifier": "garden18.png",
       "defaultName": "Garden 18.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden18.svg",
+          "uri": "stickers/custom/garden/garden18.svg",
           "width": 976,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden18.svg",
+          "uri": "stickers/custom/garden/garden18.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden19.png",
+      "identifier": "garden19.png",
       "defaultName": "Garden 19.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden19.svg",
+          "uri": "stickers/custom/garden/garden19.svg",
           "width": 574,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden19.svg",
+          "uri": "stickers/custom/garden/garden19.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden2.png",
+      "identifier": "garden2.png",
       "defaultName": "Garden 2.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden2.svg",
+          "uri": "stickers/custom/garden/garden2.svg",
           "width": 1510,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden2.svg",
+          "uri": "stickers/custom/garden/garden2.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden20.png",
+      "identifier": "garden20.png",
       "defaultName": "Garden 20.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden20.svg",
+          "uri": "stickers/custom/garden/garden20.svg",
           "width": 651,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden20.svg",
+          "uri": "stickers/custom/garden/garden20.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden21.png",
+      "identifier": "garden21.png",
       "defaultName": "Garden 21.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden21.svg",
+          "uri": "stickers/custom/garden/garden21.svg",
           "width": 1000,
           "height": 776
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden21.svg",
+          "uri": "stickers/custom/garden/garden21.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden22.png",
+      "identifier": "garden22.png",
       "defaultName": "Garden 22.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden22.svg",
+          "uri": "stickers/custom/garden/garden22.svg",
           "width": 1000,
           "height": 709
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden22.svg",
+          "uri": "stickers/custom/garden/garden22.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden23.png",
+      "identifier": "garden23.png",
       "defaultName": "Garden 23.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden23.svg",
+          "uri": "stickers/custom/garden/garden23.svg",
           "width": 1000,
           "height": 961
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden23.svg",
+          "uri": "stickers/custom/garden/garden23.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden3.png",
+      "identifier": "garden3.png",
       "defaultName": "Garden 3.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden3.svg",
+          "uri": "stickers/custom/garden/garden3.svg",
           "width": 442,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden3.svg",
+          "uri": "stickers/custom/garden/garden3.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden4.png",
+      "identifier": "garden4.png",
       "defaultName": "Garden 4.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden4.svg",
+          "uri": "stickers/custom/garden/garden4.svg",
           "width": 660,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden4.svg",
+          "uri": "stickers/custom/garden/garden4.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden5.png",
+      "identifier": "garden5.png",
       "defaultName": "Garden 5.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden5.svg",
+          "uri": "stickers/custom/garden/garden5.svg",
           "width": 476,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden5.svg",
+          "uri": "stickers/custom/garden/garden5.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden6.png",
+      "identifier": "garden6.png",
       "defaultName": "Garden 6.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden6.svg",
+          "uri": "stickers/custom/garden/garden6.svg",
           "width": 333,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden6.svg",
+          "uri": "stickers/custom/garden/garden6.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden7.png",
+      "identifier": "garden7.png",
       "defaultName": "Garden 7.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden7.svg",
+          "uri": "stickers/custom/garden/garden7.svg",
           "width": 313,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden7.svg",
+          "uri": "stickers/custom/garden/garden7.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden8.png",
+      "identifier": "garden8.png",
       "defaultName": "Garden 8.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden8.svg",
+          "uri": "stickers/custom/garden/garden8.svg",
           "width": 1000,
           "height": 575
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden8.svg",
+          "uri": "stickers/custom/garden/garden8.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Garden9.png",
+      "identifier": "garden9.png",
       "defaultName": "Garden 9.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/garden/Garden9.svg",
+          "uri": "stickers/custom/garden/garden9.svg",
           "width": 1000,
           "height": 562
         },
         "mediaThumb": {
-          "uri": "stickers/custom/garden/Garden9.svg",
+          "uri": "stickers/custom/garden/garden9.svg",
           "width": 50,
           "height": 50
         }

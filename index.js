@@ -31,13 +31,13 @@ packs.forEach((pack) => {
     "identifier": pack.name,
     "defaultName": _.capitalize(pack.name),
     "metaData": {
-      "backgroundImage": "stickers/background.png"
+      "backgroundImage": "stickers/custom/background.png"
     },
     "stickers": []
   };
 
   // Read files in pack
-  fs.readdirSync(pack.folder).forEach((fileName) => {
+  fs.readdirSync(pack.folder).filter(item => !(/(^|\/)\.[^\/\.]/g).test(item)).forEach((fileName) => {
     const identifier = fileName.replace(' ', '');
     const dimensions = sizeOf(pack.folder + fileName);
 
@@ -68,6 +68,7 @@ packs.forEach((pack) => {
 
   // Write to stick pack json file
   fs.writeFileSync('./json/'+pack.name+'-stickers.json', json);
+  console.log('Created json file ' + pack.name + '-stickers.json')
 })
 
 // Stringify json with correct format

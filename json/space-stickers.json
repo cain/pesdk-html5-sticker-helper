@@ -2,244 +2,244 @@
   "identifier": "space",
   "defaultName": "Space",
   "metaData": {
-    "backgroundImage": "stickers/background.png"
+    "backgroundImage": "stickers/custom/background.png"
   },
   "stickers": [
     {
-      "identifier": "Space1.png",
+      "identifier": "space1.png",
       "defaultName": "Space 1.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/space/Space1.svg",
+          "uri": "stickers/custom/space/space1.svg",
           "width": 1000,
           "height": 992
         },
         "mediaThumb": {
-          "uri": "stickers/custom/space/Space1.svg",
+          "uri": "stickers/custom/space/space1.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Space10.png",
+      "identifier": "space10.png",
       "defaultName": "Space 10.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/space/Space10.svg",
+          "uri": "stickers/custom/space/space10.svg",
           "width": 1000,
           "height": 871
         },
         "mediaThumb": {
-          "uri": "stickers/custom/space/Space10.svg",
+          "uri": "stickers/custom/space/space10.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Space11.png",
+      "identifier": "space11.png",
       "defaultName": "Space 11.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/space/Space11.svg",
+          "uri": "stickers/custom/space/space11.svg",
           "width": 986,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/space/Space11.svg",
+          "uri": "stickers/custom/space/space11.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Space12.png",
+      "identifier": "space12.png",
       "defaultName": "Space 12.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/space/Space12.svg",
+          "uri": "stickers/custom/space/space12.svg",
           "width": 1000,
           "height": 760
         },
         "mediaThumb": {
-          "uri": "stickers/custom/space/Space12.svg",
+          "uri": "stickers/custom/space/space12.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Space13.png",
+      "identifier": "space13.png",
       "defaultName": "Space 13.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/space/Space13.svg",
+          "uri": "stickers/custom/space/space13.svg",
           "width": 1000,
           "height": 968
         },
         "mediaThumb": {
-          "uri": "stickers/custom/space/Space13.svg",
+          "uri": "stickers/custom/space/space13.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Space14.png",
+      "identifier": "space14.png",
       "defaultName": "Space 14.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/space/Space14.svg",
+          "uri": "stickers/custom/space/space14.svg",
           "width": 1000,
           "height": 772
         },
         "mediaThumb": {
-          "uri": "stickers/custom/space/Space14.svg",
+          "uri": "stickers/custom/space/space14.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Space15.png",
+      "identifier": "space15.png",
       "defaultName": "Space 15.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/space/Space15.svg",
+          "uri": "stickers/custom/space/space15.svg",
           "width": 531,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/space/Space15.svg",
+          "uri": "stickers/custom/space/space15.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Space2.png",
+      "identifier": "space2.png",
       "defaultName": "Space 2.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/space/Space2.svg",
+          "uri": "stickers/custom/space/space2.svg",
           "width": 1000,
           "height": 788
         },
         "mediaThumb": {
-          "uri": "stickers/custom/space/Space2.svg",
+          "uri": "stickers/custom/space/space2.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Space3.png",
+      "identifier": "space3.png",
       "defaultName": "Space 3.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/space/Space3.svg",
+          "uri": "stickers/custom/space/space3.svg",
           "width": 539,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/space/Space3.svg",
+          "uri": "stickers/custom/space/space3.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Space4.png",
+      "identifier": "space4.png",
       "defaultName": "Space 4.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/space/Space4.svg",
+          "uri": "stickers/custom/space/space4.svg",
           "width": 698,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/space/Space4.svg",
+          "uri": "stickers/custom/space/space4.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Space5.png",
+      "identifier": "space5.png",
       "defaultName": "Space 5.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/space/Space5.svg",
+          "uri": "stickers/custom/space/space5.svg",
           "width": 1000,
           "height": 985
         },
         "mediaThumb": {
-          "uri": "stickers/custom/space/Space5.svg",
+          "uri": "stickers/custom/space/space5.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Space6.png",
+      "identifier": "space6.png",
       "defaultName": "Space 6.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/space/Space6.svg",
+          "uri": "stickers/custom/space/space6.svg",
           "width": 983,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/space/Space6.svg",
+          "uri": "stickers/custom/space/space6.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Space7.png",
+      "identifier": "space7.png",
       "defaultName": "Space 7.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/space/Space7.svg",
+          "uri": "stickers/custom/space/space7.svg",
           "width": 693,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/space/Space7.svg",
+          "uri": "stickers/custom/space/space7.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Space8.png",
+      "identifier": "space8.png",
       "defaultName": "Space 8.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/space/Space8.svg",
+          "uri": "stickers/custom/space/space8.svg",
           "width": 821,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/space/Space8.svg",
+          "uri": "stickers/custom/space/space8.svg",
           "width": 50,
           "height": 50
         }
       }
     },
     {
-      "identifier": "Space9.png",
+      "identifier": "space9.png",
       "defaultName": "Space 9.png",
       "images": {
         "mediaBase": {
-          "uri": "stickers/custom/space/Space9.svg",
+          "uri": "stickers/custom/space/space9.svg",
           "width": 986,
           "height": 1000
         },
         "mediaThumb": {
-          "uri": "stickers/custom/space/Space9.svg",
+          "uri": "stickers/custom/space/space9.svg",
           "width": 50,
           "height": 50
         }
