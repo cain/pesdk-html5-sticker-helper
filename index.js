@@ -1,10 +1,10 @@
 const sizeOf = require('image-size');
 const fs = require('fs');
 
+// Uri for main repo
 const uri = './static/static/photoeditorsdk-assets/stickers/custom/';
-const path = './images/Space Pack 1/Space PNGs/Space 1.png';
-const dimensions = sizeOf(path);
 
+// Sticker packs
 const packs = [
   {
     name: 'space',
@@ -12,9 +12,7 @@ const packs = [
   }
 ]
 
-packs[0].files = fs.readdirSync(packs[0].folder);
-
-let data = { categories: [] };
+const data = { categories: [] };
 
 packs.forEach((pack) => {
   const cat = {
@@ -26,9 +24,12 @@ packs.forEach((pack) => {
     "stickers": []
   };
 
-  pack.files.forEach((fileName) => {
+  // Read files in pack
+  fs.readdirSync(packs[0].folder).forEach((fileName) => {
     const identifier = fileName.replace(' ', '');
     const dimensions = sizeOf(pack.folder + fileName);
+
+    // Construct full file uri
     const fileURI = `${uri}${pack.name}/${fileName.replace('.png', '.svg')}`
     cat.stickers.push({
       "identifier": identifier,
@@ -48,20 +49,17 @@ packs.forEach((pack) => {
     })
   })
   
+  // Push to main data object
   data.categories.push(cat);
 })
+
+// Stringify json with correct format
 const json = JSON.stringify(data, null, 2);
+
+// Write to json file
 fs.writeFileSync('data.json', json);
-console.log(packs);
 
-
-
-
-
-
-
-
-
+// Data structure
 // "categories": [
 //   {
 //     "identifier": "custom_stickers",
