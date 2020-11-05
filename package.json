@@ -1,0 +1,16 @@
+{
+  "name": "sticker-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-size": "^0.9.3",
+    "node": "^15.0.1"
+  }
+}

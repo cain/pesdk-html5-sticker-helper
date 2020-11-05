@@ -1,0 +1,1 @@
+# photoeditor-sticker-helper
