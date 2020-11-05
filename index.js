@@ -36,32 +36,34 @@ packs.forEach((pack) => {
     "stickers": []
   };
 
-  // Read files in pack
-  fs.readdirSync(pack.folder).filter(item => !(/(^|\/)\.[^\/\.]/g).test(item)).forEach((fileName) => {
-    const identifier = fileName.replace(' ', '');
-    const dimensions = sizeOf(pack.folder + fileName);
+  // Read files in pack (ignore hidden files like .DS_Store)
+  fs.readdirSync(pack.folder)
+    .filter(item => !(/(^|\/)\.[^\/\.]/g).test(item))
+    .forEach((fileName) => {
+      const identifier = fileName.replace(' ', '');
+      const dimensions = sizeOf(pack.folder + fileName);
 
-    // Construct full file uri
-    const fileURI = `${uri}/${pack.name}/${identifier.replace('.png', '.svg')}`;
+      // Construct full file uri
+      const fileURI = `${uri}/${pack.name}/${identifier.replace('.png', '.svg')}`;
 
-    data.availableStickers.push(identifier);
-    cat.stickers.push({
-      "identifier": identifier,
-      "defaultName": _.capitalize(fileName),
-      "images": {
-        "mediaBase": {
-          "uri": fileURI,
-          "width": dimensions.width,
-          "height": dimensions.height
-        },
-        "mediaThumb": {
-          "uri": fileURI,
-          "width": 50,
-          "height": 50
+      data.availableStickers.push(identifier);
+      cat.stickers.push({
+        "identifier": identifier,
+        "defaultName": _.capitalize(fileName),
+        "images": {
+          "mediaBase": {
+            "uri": fileURI,
+            "width": dimensions.width,
+            "height": dimensions.height
+          },
+          "mediaThumb": {
+            "uri": fileURI,
+            "width": 50,
+            "height": 50
+          }
         }
-      }
+      })
     })
-  })
 
   // Stringify json with correct format
   const json = JSON.stringify(cat, null, 2);
