@@ -1,249 +1,127 @@
 {
   "identifier": "space",
-  "defaultName": "Space",
-  "metaData": {
-    "backgroundImage": "stickers/custom/background.png"
-  },
-  "stickers": [
+  "name": "Space",
+  "thumbnailURI": "/custom/background.png",
+  "items": [
     {
-      "identifier": "space1.png",
-      "defaultName": "Space 1.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/space/space1.svg",
-          "width": 1000,
-          "height": 992
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/space/space1.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "space1.svg",
+      "name": "Space1.svg",
+      "stickerURI": "custom/space/space1.svg",
+      "thumbnailURI": "custom/space/space1.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "space10.png",
-      "defaultName": "Space 10.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/space/space10.svg",
-          "width": 1000,
-          "height": 871
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/space/space10.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "space10.svg",
+      "name": "Space10.svg",
+      "stickerURI": "custom/space/space10.svg",
+      "thumbnailURI": "custom/space/space10.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "space11.png",
-      "defaultName": "Space 11.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/space/space11.svg",
-          "width": 986,
-          "height": 1000
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/space/space11.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "space11.svg",
+      "name": "Space11.svg",
+      "stickerURI": "custom/space/space11.svg",
+      "thumbnailURI": "custom/space/space11.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "space12.png",
-      "defaultName": "Space 12.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/space/space12.svg",
-          "width": 1000,
-          "height": 760
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/space/space12.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "space12.svg",
+      "name": "Space12.svg",
+      "stickerURI": "custom/space/space12.svg",
+      "thumbnailURI": "custom/space/space12.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "space13.png",
-      "defaultName": "Space 13.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/space/space13.svg",
-          "width": 1000,
-          "height": 968
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/space/space13.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "space13.svg",
+      "name": "Space13.svg",
+      "stickerURI": "custom/space/space13.svg",
+      "thumbnailURI": "custom/space/space13.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "space14.png",
-      "defaultName": "Space 14.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/space/space14.svg",
-          "width": 1000,
-          "height": 772
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/space/space14.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "space14.svg",
+      "name": "Space14.svg",
+      "stickerURI": "custom/space/space14.svg",
+      "thumbnailURI": "custom/space/space14.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "space15.png",
-      "defaultName": "Space 15.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/space/space15.svg",
-          "width": 531,
-          "height": 1000
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/space/space15.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "space15.svg",
+      "name": "Space15.svg",
+      "stickerURI": "custom/space/space15.svg",
+      "thumbnailURI": "custom/space/space15.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "space2.png",
-      "defaultName": "Space 2.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/space/space2.svg",
-          "width": 1000,
-          "height": 788
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/space/space2.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "space2.svg",
+      "name": "Space2.svg",
+      "stickerURI": "custom/space/space2.svg",
+      "thumbnailURI": "custom/space/space2.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "space3.png",
-      "defaultName": "Space 3.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/space/space3.svg",
-          "width": 539,
-          "height": 1000
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/space/space3.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "space3.svg",
+      "name": "Space3.svg",
+      "stickerURI": "custom/space/space3.svg",
+      "thumbnailURI": "custom/space/space3.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "space4.png",
-      "defaultName": "Space 4.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/space/space4.svg",
-          "width": 698,
-          "height": 1000
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/space/space4.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "space4.svg",
+      "name": "Space4.svg",
+      "stickerURI": "custom/space/space4.svg",
+      "thumbnailURI": "custom/space/space4.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "space5.png",
-      "defaultName": "Space 5.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/space/space5.svg",
-          "width": 1000,
-          "height": 985
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/space/space5.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "space5.svg",
+      "name": "Space5.svg",
+      "stickerURI": "custom/space/space5.svg",
+      "thumbnailURI": "custom/space/space5.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "space6.png",
-      "defaultName": "Space 6.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/space/space6.svg",
-          "width": 983,
-          "height": 1000
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/space/space6.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "space6.svg",
+      "name": "Space6.svg",
+      "stickerURI": "custom/space/space6.svg",
+      "thumbnailURI": "custom/space/space6.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "space7.png",
-      "defaultName": "Space 7.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/space/space7.svg",
-          "width": 693,
-          "height": 1000
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/space/space7.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "space7.svg",
+      "name": "Space7.svg",
+      "stickerURI": "custom/space/space7.svg",
+      "thumbnailURI": "custom/space/space7.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "space8.png",
-      "defaultName": "Space 8.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/space/space8.svg",
-          "width": 821,
-          "height": 1000
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/space/space8.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "space8.svg",
+      "name": "Space8.svg",
+      "stickerURI": "custom/space/space8.svg",
+      "thumbnailURI": "custom/space/space8.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "space9.png",
-      "defaultName": "Space 9.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/space/space9.svg",
-          "width": 986,
-          "height": 1000
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/space/space9.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "space9.svg",
+      "name": "Space9.svg",
+      "stickerURI": "custom/space/space9.svg",
+      "thumbnailURI": "custom/space/space9.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     }
   ]
 }

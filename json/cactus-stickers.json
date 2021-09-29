@@ -1,169 +1,87 @@
 {
   "identifier": "cactus",
-  "defaultName": "Cactus",
-  "metaData": {
-    "backgroundImage": "stickers/custom/background.png"
-  },
-  "stickers": [
+  "name": "Cactus",
+  "thumbnailURI": "/custom/background.png",
+  "items": [
     {
-      "identifier": "cactus1.png",
-      "defaultName": "Cactus 1.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/cactus/cactus1.svg",
-          "width": 689,
-          "height": 1000
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/cactus/cactus1.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "Cactus1.svg",
+      "name": "Cactus 1.svg",
+      "stickerURI": "custom/cactus/Cactus1.svg",
+      "thumbnailURI": "custom/cactus/Cactus1.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "cactus10.png",
-      "defaultName": "Cactus 10.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/cactus/cactus10.svg",
-          "width": 660,
-          "height": 1000
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/cactus/cactus10.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "Cactus10.svg",
+      "name": "Cactus 10.svg",
+      "stickerURI": "custom/cactus/Cactus10.svg",
+      "thumbnailURI": "custom/cactus/Cactus10.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "cactus2.png",
-      "defaultName": "Cactus 2.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/cactus/cactus2.svg",
-          "width": 661,
-          "height": 1000
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/cactus/cactus2.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "Cactus2.svg",
+      "name": "Cactus 2.svg",
+      "stickerURI": "custom/cactus/Cactus2.svg",
+      "thumbnailURI": "custom/cactus/Cactus2.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "cactus3.png",
-      "defaultName": "Cactus 3.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/cactus/cactus3.svg",
-          "width": 509,
-          "height": 1000
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/cactus/cactus3.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "Cactus3.svg",
+      "name": "Cactus 3.svg",
+      "stickerURI": "custom/cactus/Cactus3.svg",
+      "thumbnailURI": "custom/cactus/Cactus3.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "cactus4.png",
-      "defaultName": "Cactus 4.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/cactus/cactus4.svg",
-          "width": 772,
-          "height": 1000
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/cactus/cactus4.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "Cactus4.svg",
+      "name": "Cactus 4.svg",
+      "stickerURI": "custom/cactus/Cactus4.svg",
+      "thumbnailURI": "custom/cactus/Cactus4.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "cactus5.png",
-      "defaultName": "Cactus 5.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/cactus/cactus5.svg",
-          "width": 705,
-          "height": 1000
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/cactus/cactus5.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "Cactus5.svg",
+      "name": "Cactus 5.svg",
+      "stickerURI": "custom/cactus/Cactus5.svg",
+      "thumbnailURI": "custom/cactus/Cactus5.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "cactus6.png",
-      "defaultName": "Cactus 6.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/cactus/cactus6.svg",
-          "width": 560,
-          "height": 1000
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/cactus/cactus6.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "Cactus6.svg",
+      "name": "Cactus 6.svg",
+      "stickerURI": "custom/cactus/Cactus6.svg",
+      "thumbnailURI": "custom/cactus/Cactus6.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "cactus7.png",
-      "defaultName": "Cactus 7.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/cactus/cactus7.svg",
-          "width": 494,
-          "height": 1000
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/cactus/cactus7.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "Cactus7.svg",
+      "name": "Cactus 7.svg",
+      "stickerURI": "custom/cactus/Cactus7.svg",
+      "thumbnailURI": "custom/cactus/Cactus7.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "cactus8.png",
-      "defaultName": "Cactus 8.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/cactus/cactus8.svg",
-          "width": 441,
-          "height": 1000
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/cactus/cactus8.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "Cactus8.svg",
+      "name": "Cactus 8.svg",
+      "stickerURI": "custom/cactus/Cactus8.svg",
+      "thumbnailURI": "custom/cactus/Cactus8.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     },
     {
-      "identifier": "cactus9.png",
-      "defaultName": "Cactus 9.png",
-      "images": {
-        "mediaBase": {
-          "uri": "stickers/custom/cactus/cactus9.svg",
-          "width": 615,
-          "height": 1000
-        },
-        "mediaThumb": {
-          "uri": "stickers/custom/cactus/cactus9.svg",
-          "width": 50,
-          "height": 50
-        }
-      }
+      "identifier": "Cactus9.svg",
+      "name": "Cactus 9.svg",
+      "stickerURI": "custom/cactus/Cactus9.svg",
+      "thumbnailURI": "custom/cactus/Cactus9.svg",
+      "resizeMode": "keepAspect",
+      "tintMode": "colorized"
     }
   ]
 }

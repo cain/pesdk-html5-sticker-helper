@@ -1,4 +1,3 @@
 node_modules/
-# data.json
-images/*
+# images/*
 # *-stickers.json
